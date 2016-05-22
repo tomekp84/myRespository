@@ -1,0 +1,2 @@
+# myRespository
+zadanie przykładowe
